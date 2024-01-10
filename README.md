@@ -8,6 +8,5 @@ The Email Spam Classification Project aims to develop a machine learning model t
 4. **Support Vector Classifier (SVC):** A supervised learning algorithm that separates data into classes by finding the hyperplane that maximizes the margin between them.
 5. **Decision Tree:** A flowchart-like tree structure where each internal node represents a feature, each branch represents a decision, and each leaf node represents an outcome.
 
-   **Accuracy of Models**
    ![Screenshot 2024-01-10 181813](https://github.com/01Vishwa/Email-Spam-Classfication/assets/95125690/04f9e4e7-2679-491a-b5e1-86d023fd5e22)
  
